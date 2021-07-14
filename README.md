@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm ALex - aka [PythonTrip][profile]
 [![Twitter Follow](https://img.shields.io/twitter/follow/PytripIT?color=blue&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FpytripIT&screen_name=pytripIT)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](instagram)
+
 
 
 ### Student and devloper
@@ -14,9 +14,8 @@
 
 ### Connect with me
 
-[<img align="left" alt="PythonTrip | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/icons/instagram.svg" />][instagram]
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](instagram)
 
-<br />
 
 ---
 
