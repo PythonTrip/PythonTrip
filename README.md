@@ -1,5 +1,7 @@
 ### Hi there 👋, I'm ALex - aka [PythonTrip][profile]
-[![Twitter Follow](https://img.shields.io/twitter/follow/PytripIT?label=Twitter&style=social?style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FpytripIT&screen_name=pytripIT)
+[![Twitter Follow](https://img.shields.io/twitter/follow/PytripIT?color=blue&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FpytripIT&screen_name=pytripIT)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](instagram)
+
 
 ### Student and devloper
 
@@ -8,8 +10,27 @@
 - 📫 2021 Goals: Contibute ended [Hungry Geese](https://github.com/PythonTrip/HungryGeese) and refactoring all projects.
 - ⚡ Fun fact: I like draw and play guitar
 
+---
+
 ### Connect with me
-[<img align="left" alt="PythonTrip | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[<img align="left" alt="PythonTrip | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/icons/instagram.svg" />][instagram]
+
+<br />
+
+---
+
+### Space and languages
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]()
+[![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
+
+[![GPU](https://img.shields.io/badge/NVIDIA-GTX1500-76B900?style=for-the-badge&logo=nvidia&logoColor=white)]()
+[![CPU](https://img.shields.io/badge/AMD-Ryzen_7_3700X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)]()
+
+
+[![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
+[![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]()
+[![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)]()
 
 
 [profile]: https://github.com/PythonTrip
