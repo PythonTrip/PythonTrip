@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋, I'm ALex - aka [PythonTrip][profile]
+[![Twitter Follow](https://img.shields.io/twitter/follow/PytripIT?label=Twitter&style=social?style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FpytripIT&screen_name=pytripIT)
 
-<!--
-**PythonTrip/PythonTrip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Student and devloper
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Machine learning projects, with CV, reinforcement learning, and NLP. 
+- 🌱 I'm currently learning math, algorithms, and also ML theory.
+- 📫 2021 Goals: Contibute ended [Hungry Geese](https://github.com/PythonTrip/HungryGeese) and refactoring all projects.
+- ⚡ Fun fact: I like draw and play guitar
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me
+[<img align="left" alt="PythonTrip | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
+[profile]: https://github.com/PythonTrip
+[instagram]: https://www.instagram.com/alex_pytrip/
