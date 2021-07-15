@@ -10,20 +10,26 @@
 - 📫 2021 Goals: Contibute ended [Hungry Geese](https://github.com/PythonTrip/HungryGeese) and refactoring all projects.
 - ⚡ Fun fact: I like draw and play guitar
 
+
+### Main projects
+
+[Hungry Geese](https://github.com/PythonTrip/HungryGeese) - 
+Image processing - 
+
 ---
 
 ### Connect with me
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](instagram)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alex_pytrip/)
 
 
 ---
 
-### Space and languages
+### Spaces and languages
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]()
 [![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
 
-[![GPU](https://img.shields.io/badge/NVIDIA-GTX1500-76B900?style=for-the-badge&logo=nvidia&logoColor=white)]()
+[![GPU](https://img.shields.io/badge/NVIDIA-GTX1050-76B900?style=for-the-badge&logo=nvidia&logoColor=white)]()
 [![CPU](https://img.shields.io/badge/AMD-Ryzen_7_3700X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)]()
 
 
