@@ -37,6 +37,12 @@ Image processing -
 [![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]()
 [![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)]()
 
+<a href="https://github.com/PythonTrip">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PythonTrip&layout=compact&langs_count=8&theme=radical" />
+</a>
+<a href="https://github.com/PythonTrip">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=PythonTrip&line_height=24&show_icons=true&theme=radical&layout=compact" alt="My github stats" />  
+</a>  
 
 [profile]: https://github.com/PythonTrip
 [instagram]: https://www.instagram.com/alex_pytrip/
