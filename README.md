@@ -14,6 +14,7 @@
 ### Main projects
 
 [Hungry Geese](https://github.com/PythonTrip/HungryGeese) - 
+
 Image processing - 
 
 ---
